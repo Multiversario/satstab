@@ -10,7 +10,7 @@ The simulations for exomoons considered a Neptune-like exomoon orbiting a Jupite
 
 After cloning the repository, the tool for determining a_c for a given set of ecentricity parameters (e_p, e_sat) as well as the planet's semi-major axis (a_p) in AU, mass (m_p) and stellar mass (m_star) in solar masses. The stability limit can be determined simply by running **'python get_ac.py a_p m_p m_star e_p e_sat sub'**, where e_p and e_sat are floats between [0, 0.5] and sub is a flag to indicate whether to evaluate for an exomoon(sub=0) or submoon(sub=1). Additionally, a_p, m_p and m_star are positive floats.
 
-##Attribution
+#Attribution
 --------
 If you find this useful for your research, please cite this work using the information below. 
 
