@@ -15,12 +15,24 @@ After cloning the repository, the tool for determining a_c for a given set of ec
 If you find this useful for your research, please cite this work using the information below. 
 
 ```
-@article{RF2020,
-author = {{Rosario-Franco}, M. and {Quarles}, B. and {Musielak}, Z. and {Cutz}, M.},
-title = "{Stability Limits of Circumbinary Planets: Is There a Pile-up in the Kepler CBPs?}",
-journal = {\aj},
-archivePrefix = "arXiv",
-notes = {Submitted}
-
+@ARTICLE{2020AJ....159..260R,
+       author = {{Rosario-Franco}, Marialis and {Quarles}, Billy and
+         {Musielak}, Zdzislaw E. and {Cuntz}, Manfred},
+        title = "{Orbital Stability of Exomoons and Submoons with Applications to Kepler 1625b-I}",
+      journal = {\aj},
+     keywords = {Orbits, Exoplanet dynamics, Exoplanets, Natural satellites (Extrasolar), Astrophysics - Earth and Planetary Astrophysics},
+         year = 2020,
+        month = jun,
+       volume = {159},
+       number = {6},
+          eid = {260},
+        pages = {260},
+          doi = {10.3847/1538-3881/ab89a7},
+archivePrefix = {arXiv},
+       eprint = {2005.06521},
+ primaryClass = {astro-ph.EP},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2020AJ....159..260R},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
+
 ```
