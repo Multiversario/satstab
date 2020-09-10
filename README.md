@@ -1,6 +1,6 @@
 # satstab
 --------
-Tools for determining the stability limit of a satellites and sub-satellites
+Tools for determining the orbital stability limit of a satellites and sub-satellites
 
 This is a repository for tools to determine the stability limit, or critical semimajor axis (a_c), of exomoons and submoons. Boundaries (a_sat for exomoons and a_sub for submoons) are provided in terms of astronomical units (AUs). 
 
