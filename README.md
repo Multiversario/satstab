@@ -1,8 +1,9 @@
 # satstab
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3751872.svg)](https://doi.org/10.5281/zenodo.3751872)
 --------
 Tools for determining the orbital stability limit of a satellites and sub-satellites
 
-This is a repository for tools to determine the stability limit, or critical semimajor axis (a_c), of exomoons and submoons. Boundaries (a_sat for exomoons and a_sub for submoons) are provided in terms of astronomical units (AUs). 
+This is a repository with tools to determine the stability limit, or critical semimajor axis (a_c), of exomoons and submoons. Boundaries (a_sat for exomoons and a_sub for submoons) are provided in terms of astronomical units (AUs). 
 
 The summarized data in contour_moon.txt and contour_submoon.txt contains the summarized data resulting from N-body simulations performed with REBOUND (Rein 2012, Rein 2015). Explicitly, the files contain e_p, e_sat and a_crit (in units of Hill radius). 
 
